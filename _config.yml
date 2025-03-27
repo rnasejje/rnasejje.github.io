@@ -30,7 +30,7 @@ twitter_username: n/a
 github_username:  rnasejje
 
 # Build settings
-theme: lanyon
+remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-feed
 
