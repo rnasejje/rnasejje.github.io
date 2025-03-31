@@ -9,37 +9,38 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
+- **B.S. in Data Science**, University of Conneticut, 2027 (expected)
+- **Concentration in Financial Analysis**, University of Conneticut, 2027 (expected)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Work Experience
+- **Summer 2024: Data Analyst Intern**
+  - Duties include: Data analysis and visualization, worked with Python and R to deliver insights to the risk management team
+  - Supervisor: Micheal Brown
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- **Summer 2023: Child Caregiver**
+  - Managed a class of 30 1st and 2nd graders, creating engaging educational activities
+  - Supervisor: Christina Hope
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+- **Summer 2022: Research Assistant**
+  - Assisted in research projects related to data mining and risk management, worked with machine learning algorithms
+  - Supervisor: Dr. Lesley Frame
+
+## Skills
+- **Data Science**
+  - Python, R, Excel
+  - Data visualization (Tableau, Power BI)
+  - Machine Learning (scikit-learn, TensorFlow)
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **Risk Management**
+  - Risk assessment and mitigation strategies
+  - Financial analysis
+  - Insurance analytics
+
+- **Soft Skills**
+  - Leadership and team management
+  - Communication and presentation skills
+  - Problem-solving and analytical thinking
 
 Publications
 ======
